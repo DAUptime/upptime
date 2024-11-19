@@ -1,8 +1,8 @@
 [
   {
     "name": "On-Demand Learning",
-    "url": "https://on.abdn.ac.uk/",
-    "icon": "https://icons.duckduckgo.com/ip3/on.abdn.ac.uk.ico",
+    "url": "$ABDN_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "on-demand-learning",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1402,
-    "timeDay": 1402,
-    "timeWeek": 1402,
-    "timeMonth": 1402,
-    "timeYear": 1402,
+    "time": 1253,
+    "timeDay": 1253,
+    "timeWeek": 1253,
+    "timeMonth": 1253,
+    "timeYear": 1253,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://coremvc5test.dataarchitects.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/coremvc5test.dataarchitects.co.uk.ico",
     "slug": "core-mvc-5-test",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 720,
-    "timeDay": 720,
-    "timeWeek": 720,
-    "timeMonth": 720,
-    "timeYear": 720,
+    "status": "up",
+    "uptime": "95.57%",
+    "uptimeDay": "95.57%",
+    "uptimeWeek": "95.57%",
+    "uptimeMonth": "95.57%",
+    "uptimeYear": "95.57%",
+    "time": 682,
+    "timeDay": 682,
+    "timeWeek": 682,
+    "timeMonth": 682,
+    "timeYear": 682,
     "dailyMinutesDown": {
-      "2024-11-19": 0
+      "2024-11-19": 4
     }
   }
 ]
