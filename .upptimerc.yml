@@ -6,7 +6,7 @@ sites:
   - name: On-Demand Learning
     url: $ABDN_URL
   - name: Core MVC 5 Test
-    url: https://coremvc5test.dataarchitects.co.uk/
+    url: $CORE_URL
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
