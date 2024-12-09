@@ -22,10 +22,10 @@
     "url": "$OEMS_TEST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "abdntest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 885,
@@ -33,16 +33,18 @@
     "timeWeek": 931,
     "timeMonth": 885,
     "timeYear": 885,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-09": 1
+    }
   },
   {
     "name": "MVC5",
     "url": "$CORE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mvc-5",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 687,
     "timeMonth": 690,
     "timeYear": 690,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-09": 0
+    }
   },
   {
     "name": "DA",
