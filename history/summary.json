@@ -4,18 +4,20 @@
     "url": "$ABDN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "abdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1154,
-    "timeDay": 1469,
-    "timeWeek": 1272,
-    "timeMonth": 1154,
-    "timeYear": 1154,
-    "dailyMinutesDown": {}
+    "time": 1146,
+    "timeDay": 1206,
+    "timeWeek": 1231,
+    "timeMonth": 1146,
+    "timeYear": 1146,
+    "dailyMinutesDown": {
+      "2024-12-11": 0
+    }
   },
   {
     "name": "ABDNTEST",
