@@ -61,9 +61,9 @@
     "url": "$DA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "da",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,7 +72,9 @@
     "timeWeek": 1382,
     "timeMonth": 1516,
     "timeYear": 1340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-28": 0
+    }
   },
   {
     "name": "INNOV",
