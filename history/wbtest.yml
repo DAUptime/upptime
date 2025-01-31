@@ -1,7 +1,7 @@
 url: $WB_TEST_URL
-status: down
-code: 503
-responseTime: 640
-lastUpdated: 2025-01-31T16:57:10.968Z
+status: up
+code: 200
+responseTime: 3190
+lastUpdated: 2025-01-31T17:14:33.887Z
 startTime: 2024-11-19T16:42:56.351Z
 generator: Upptime <https://github.com/upptime/upptime>
