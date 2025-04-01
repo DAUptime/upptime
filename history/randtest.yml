@@ -1,7 +1,7 @@
 url: $RANDTEST
 status: down
-code: 503
-responseTime: 715
-lastUpdated: 2025-04-01T08:58:16.040Z
+code: 404
+responseTime: 1377
+lastUpdated: 2025-04-01T23:13:28.057Z
 startTime: 2024-11-19T16:42:39.300Z
 generator: Upptime <https://github.com/upptime/upptime>
