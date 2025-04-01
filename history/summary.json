@@ -97,18 +97,20 @@
     "url": "$RANDTEST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "randtest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1128,
-    "timeDay": 910,
-    "timeWeek": 995,
-    "timeMonth": 1059,
-    "timeYear": 1128,
-    "dailyMinutesDown": {}
+    "time": 1125,
+    "timeDay": 813,
+    "timeWeek": 960,
+    "timeMonth": 1048,
+    "timeYear": 1125,
+    "dailyMinutesDown": {
+      "2025-04-01": 0
+    }
   },
   {
     "name": "RISE",
