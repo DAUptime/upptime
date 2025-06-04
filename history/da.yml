@@ -1,7 +1,7 @@
 url: $DA_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-04T08:22:50.168Z
+status: up
+code: 200
+responseTime: 1726
+lastUpdated: 2025-06-04T08:45:34.882Z
 startTime: 2024-11-19T16:42:37.063Z
 generator: Upptime <https://github.com/upptime/upptime>
