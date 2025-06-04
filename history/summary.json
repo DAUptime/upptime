@@ -61,10 +61,10 @@
     "url": "$DA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "da",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1557,
@@ -72,16 +72,18 @@
     "timeWeek": 1723,
     "timeMonth": 1710,
     "timeYear": 1557,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-04": 1
+    }
   },
   {
     "name": "INNOV",
     "url": "$INNOV",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "innov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -90,7 +92,9 @@
     "timeWeek": 713,
     "timeMonth": 727,
     "timeYear": 738,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-04": 0
+    }
   },
   {
     "name": "RANDTEST",
@@ -98,18 +102,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "randtest",
     "status": "down",
-    "uptime": "67.58%",
+    "uptime": "67.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.58%",
+    "uptimeYear": "67.47%",
     "time": 1108,
     "timeDay": 1247,
     "timeWeek": 1180,
     "timeMonth": 1055,
     "timeYear": 1108,
     "dailyMinutesDown": {
-      "2025-06-04": 43,
+      "2025-06-04": 504,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
