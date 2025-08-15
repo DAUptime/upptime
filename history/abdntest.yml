@@ -1,7 +1,7 @@
 url: $OEMS_TEST
-status: down
-code: 503
-responseTime: 1385
-lastUpdated: 2025-08-14T23:14:54.462Z
+status: up
+code: 200
+responseTime: 665
+lastUpdated: 2025-08-15T14:35:23.840Z
 startTime: 2024-11-19T16:42:35.110Z
 generator: Upptime <https://github.com/upptime/upptime>
